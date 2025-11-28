@@ -576,6 +576,7 @@ main {
   font-weight: 700;
   padding: calc(var(--unit) * 0.125) calc(var(--unit) * 0.5);
   text-transform: uppercase;
+  vertical-align: text-bottom;
 }
 
 /* Footer
