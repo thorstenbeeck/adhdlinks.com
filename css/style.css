@@ -557,6 +557,10 @@ main {
   padding: calc(var(--unit) * 2);
 }
 
+.links a {
+  vertical-align: middle;
+}
+
 .about {
   display: grid;
   grid-gap: calc(var(--unit) * 3);
@@ -576,7 +580,7 @@ main {
   font-weight: 700;
   padding: calc(var(--unit) * 0.125) calc(var(--unit) * 0.5);
   text-transform: uppercase;
-  vertical-align: text-bottom;
+  vertical-align: middle;
 }
 
 /* Footer
